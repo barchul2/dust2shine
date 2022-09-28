@@ -1,0 +1,61 @@
+.home-landing-banner {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-landing-banner-text {
+  color: #1976d2;
+  text-align: center;
+}
+
+.home-landing-banner-text button {
+  margin-top: 3em;
+}
+
+.home-datacards {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.home-landing-about {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1976d2;
+}
+
+.home-landing-about-text {
+  color: white;
+  text-align: center;
+}
+
+.home-landing-about-video {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.home-landing-about-video button {
+  font-size: 1vw;
+  position: relative;
+  transform: translate(0%, -300%);
+}
+
+.price-calculator {
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.price-calculator-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #1976d2;
+}
