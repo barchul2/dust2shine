@@ -6,9 +6,7 @@ function Home() {
       {/* Navigation Bar */}
       <nav className='navbar navbar-expand-lg navbar-light bg-light'>
         <div className='container-fluid'>
-          <a className='navbar-brand' href='#'>
-            Dust 2 Shine CCS
-          </a>
+          <a className='navbar-brand'>Dust 2 Shine CCS</a>
           <button
             className='navbar-toggler'
             type='button'
