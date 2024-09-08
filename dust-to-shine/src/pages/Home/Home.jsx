@@ -6,7 +6,7 @@ function Home() {
       {/* Navigation Bar */}
       <nav className='navbar navbar-expand-lg navbar-light bg-light'>
         <div className='container-fluid'>
-          <a className='navbar-brand'>Dust 2 Shine CCS</a>
+          <p className='navbar-brand'>Dust 2 Shine CCS</p>
           <button
             className='navbar-toggler'
             type='button'
@@ -109,11 +109,11 @@ function Home() {
                 <div className='card-body text-center'>
                   <h5 className='card-title'>Get in Touch</h5>
                   <p className='card-text lead'>
-                    <strong>Email:</strong> <a>dust2shineccs@outlook.com</a>
+                    <strong>Email:</strong> <p>dust2shineccs@outlook.com</p>
                   </p>
                   <p className='card-text lead'>
                     <strong>Phone:</strong>
-                    <a>Helen Cordova at 720-365-4435</a>
+                    <p>Helen Cordova at 720-365-4435</p>
                   </p>
                 </div>
               </div>
