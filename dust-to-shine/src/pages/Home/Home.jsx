@@ -111,14 +111,11 @@ function Home() {
                 <div className='card-body text-center'>
                   <h5 className='card-title'>Get in Touch</h5>
                   <p className='card-text lead'>
-                    <strong>Email:</strong>{' '}
-                    <a href='mailto:dust2shineccs@outlook.com'>
-                      dust2shineccs@outlook.com
-                    </a>
+                    <strong>Email:</strong> <a>dust2shineccs@outlook.com</a>
                   </p>
                   <p className='card-text lead'>
-                    <strong>Phone:</strong>{' '}
-                    <a href='tel:+17203654435'>Helen Cordova at 720-365-4435</a>
+                    <strong>Phone:</strong>
+                    <a>Helen Cordova at 720-365-4435</a>
                   </p>
                 </div>
               </div>
