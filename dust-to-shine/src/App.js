@@ -1,19 +1,12 @@
-
-import React from "react"; 
-import Navigation from "./components/Navigation";
-import Home from "./pages/Home/Home";
+import React from 'react';
+import Home from './pages/Home/Home';
 
 function App() {
   return (
-    <div className="App">
-      <section> 
-        <Navigation/>
-      </section>
-
+    <div className='App'>
       <section>
-        <Home/>
+        <Home />
       </section>
-
     </div>
   );
 }
